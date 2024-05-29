@@ -64,11 +64,8 @@ namespace ASP.NET_Core_WebAPI.Controllers
             await context.SaveChangesAsync();
 
             return Ok(std);
-            return Ok(std);
-
+         
         }
-
-        //Hello sharif
 
 
     }
